@@ -35,6 +35,8 @@ Play Dota 2 and basketball in my free time. Worship dogs.
 ## Computer vision
 ### 
 
+Under construction ...
+
 # Contact
  [LinkedIn](https://www.linkedin.com/in/quyvx/) 
  Email: quy.vu@city.ac.uk!

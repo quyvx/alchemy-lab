@@ -19,8 +19,7 @@ Play Dota 2 and basketball in my free time. Worship dogs.
 #### Spam detection with Logistic Regression, Naive Bayes, Support Vector Machines + PySpark
 - Experimented 3 ML algorithms to classify spam messages
 - The bigger the hash vector, the better prediction, since differents words are less likely to be assigned to the same position. However, there was no improvement as the vector size exceeds 3,000: The topic may not be diversed.
-- Removing stop words does not significantly affect the result, as stop words are usually considered as containing very few information.
-- Normalizing samples to unit L1 or L2 norm by setting the normalizer parameter to 1 or 2 limits SVM's accuracy to ~84%, while setting this parameter to "inf" boosted SVM's accuracy to 90%. This can be regarded as an alternative to tunning SVM's kernel function. The result obtained appears to contradict empirical results, where SVM are proven to be the best classifier, followed by Naive Bayes then Logistic Regression. This might be attributed to the difference in datasets and model tuning.
+- Normalizing samples to unit L1 or L2 norm limits SVM's accuracy to ~84%. Not normalising boosted SVM's accuracy to 90%. This can be regarded as an alternative to tunning SVM's kernel function.
 
 <b> [Notebook](https://github.com/quyvx/Alchemy/blob/master/City/Courseworks/Spam%20Detection%20with%20PySpark.ipynb)</b>
 

@@ -12,10 +12,19 @@ Play Dota 2 and basketball in my free time. Worship dogs.
 - As the main goal was to to understand more about the data, I selected logistic regression and decision tree. Obiviously could get better performance with more sophisticated models.
 - Earned me a final interview at GoldmanSachs
 
-<b>[Notebook](https://github.com/quyvx/Alchemy/blob/master/City/Courseworks/Credit%20card%20fraud%20detection%20with%20Logistic%20Regression%20and%20Decision%20Tree/Submission.ipynb)</b> | [Repo](https://github.com/quyvx/Alchemy/tree/master/City/Courseworks/Credit%20card%20fraud%20detection%20with%20Logistic%20Regression%20and%20Decision%20Tree)
+<b>[Notebook](https://github.com/quyvx/Alchemy/blob/master/City/Courseworks/Credit%20card%20fraud%20detection%20with%20Logistic%20Regression%20and%20Decision%20Tree/Submission.ipynb) | [Repo](https://github.com/quyvx/Alchemy/tree/master/City/Courseworks/Credit%20card%20fraud%20detection%20with%20Logistic%20Regression%20and%20Decision%20Tree)</b>
 
 ## Big data
-### Sentiment classification of Amazon Reviews with PySpark
+### Natural Language Processing
+#### Spam detection with Logistic Regression, Naive Bayes, Support Vector Machines + PySpark
+- Experimented 3 ML algorithms to classify spam messages
+- The bigger the hash vector, the better prediction, since differents words are less likely to be assigned to the same position. However, there was no improvement as the vector size exceeds 3,000: The topic may not be diversed.
+- Removing stop words does not significantly affect the result, as stop words are usually considered as containing very few information.
+- Normalizing samples to unit L1 or L2 norm by setting the normalizer parameter to 1 or 2 limits SVM's accuracy to ~84%, while setting this parameter to "inf" boosted SVM's accuracy to 90%. This can be regarded as an alternative to tunning SVM's kernel function. The result obtained appears to contradict empirical results, where SVM are proven to be the best classifier, followed by Naive Bayes then Logistic Regression. This might be attributed to the difference in datasets and model tuning.
+
+[Notebook](https://github.com/quyvx/Alchemy/blob/master/City/Courseworks/Spam%20Detection%20with%20PySpark.ipynb)
+
+#### Sentiment classification of Amazon Reviews with PySpark
 - Used Logistic Regression and Naive Bayes to classify 4 millions Amazon Reviews.
 - Set up a PySpark pipeline to process data.
 - TF-IDF gave similar result to word2vec, but took less time to run.

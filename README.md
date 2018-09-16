@@ -7,6 +7,10 @@ Play Dota 2 and basketball in my free time. Worship dogs.
 
 ## Imbalance learning
 ### Credit card fraud detection
+- Used PCA to find out the important predictor. 
+- My first machine learning project at City University. 
+- Selected Logistic regression and decision tree to understand more about the data. Obiviously could get better performance with more sophisticated models.
+<b>[Notebook](https://github.com/quyvx/Alchemy/blob/master/City/Courseworks/Credit%20card%20fraud%20detection%20with%20Logistic%20Regression%20and%20Decision%20Tree/Submission.ipynb)</b>
 
 
 

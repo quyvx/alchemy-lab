@@ -22,7 +22,7 @@ Play Dota 2 and basketball in my free time. Worship dogs.
 - Removing stop words does not significantly affect the result, as stop words are usually considered as containing very few information.
 - Normalizing samples to unit L1 or L2 norm by setting the normalizer parameter to 1 or 2 limits SVM's accuracy to ~84%, while setting this parameter to "inf" boosted SVM's accuracy to 90%. This can be regarded as an alternative to tunning SVM's kernel function. The result obtained appears to contradict empirical results, where SVM are proven to be the best classifier, followed by Naive Bayes then Logistic Regression. This might be attributed to the difference in datasets and model tuning.
 
-[Notebook](https://github.com/quyvx/Alchemy/blob/master/City/Courseworks/Spam%20Detection%20with%20PySpark.ipynb)
+<b> [Notebook](https://github.com/quyvx/Alchemy/blob/master/City/Courseworks/Spam%20Detection%20with%20PySpark.ipynb)</b>
 
 #### Sentiment classification of Amazon Reviews with PySpark
 - Used Logistic Regression and Naive Bayes to classify 4 millions Amazon Reviews.

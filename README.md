@@ -5,5 +5,8 @@ This is where crazy ideas are experimented. Lots of them didn't work, but some t
 
 Play Dota 2 and basketball in my free time. Worship dogs.
 
+## Imbalance learning
+### Credit card fraud detection
+
 
 

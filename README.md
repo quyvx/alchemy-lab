@@ -14,15 +14,18 @@ Play Dota 2 and basketball in my free time. Worship dogs.
 
 <b>[Notebook](https://github.com/quyvx/Alchemy/blob/master/City/Courseworks/Credit%20card%20fraud%20detection%20with%20Logistic%20Regression%20and%20Decision%20Tree/Submission.ipynb)</b> | [Repo](https://github.com/quyvx/Alchemy/tree/master/City/Courseworks/Credit%20card%20fraud%20detection%20with%20Logistic%20Regression%20and%20Decision%20Tree)
 
+## Big data
 ### Sentiment classification of Amazon Reviews with PySpark
 - Used Logistic Regression and Naive Bayes to classify 4 millions Amazon Reviews.
 - Set up a PySpark pipeline to process data.
 - TF-IDF gave similar result to word2vec, but took less time to run.
+- TF-IDF length of 10,000 gave AUC score of 0.92, how about 100,000? No better. It turns out that 10,000 is enough for one single topic (which is product review)
 
 <b>[Notebook](https://github.com/quyvx/Alchemy/blob/master/City/Courseworks/Sentiment%20classification%20with%20PySpark/Code.ipynb) | [Repo](https://github.com/quyvx/Alchemy/tree/master/City/Courseworks/Sentiment%20classification%20with%20PySpark) | 
   [Poster](https://camo.githubusercontent.com/fb353f672e97b343d66c00a656430b4294d6fb62/68747470733a2f2f692e696d6775722e636f6d2f5234636a6a71502e6a7067)</b>
 
-
+## Computer vision
+### 
 
 # Contact
  [LinkedIn](https://www.linkedin.com/in/quyvx/) 

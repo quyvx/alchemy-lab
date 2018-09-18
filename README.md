@@ -5,6 +5,20 @@ This is where crazy ideas are experimented. Lots of them didn't work, but some t
 
 Play Dota 2 and basketball in my free time. Worship dogs.
 
+## Computer vision
+### Face detection and recognition
+- Processed group and individual photos, then extracted features for 3 ML algorithms and 
+- Performed transfer learning (VGG-Net) to achive 99.25% accuracy.
+- Wrote a program to detect and recognise faces in pictures and video. 
+- Also detect and recognise any number shown in the picture
+
+[Report](https://github.com/quyvx/Alchemy/blob/master/City/Courseworks/Face%20and%20digit%20recognition.pdf)
+
+### Optical character recognition
+- Highlighted the main difference of CNN and MLP and compare their performances in OCR task.
+- Messed up traning data labels to see how can the network learn - THEY CAN !!! Turned out to be one of the active research area!
+[Report](https://github.com/quyvx/Alchemy/blob/master/City/Courseworks/Comparison%20of%20MLP%20and%20CNN%20in%20hand-written%20digit%20recognition.pdf)
+
 ## Imbalance learning
 ### Credit card fraud detection
 - Used PCA to identify important predictors. 
@@ -31,9 +45,6 @@ Play Dota 2 and basketball in my free time. Worship dogs.
 
 <b>[Notebook](https://github.com/quyvx/Alchemy/blob/master/City/Courseworks/Sentiment%20classification%20with%20PySpark/Code.ipynb) | [Repo](https://github.com/quyvx/Alchemy/tree/master/City/Courseworks/Sentiment%20classification%20with%20PySpark) | 
   [Poster](https://camo.githubusercontent.com/fb353f672e97b343d66c00a656430b4294d6fb62/68747470733a2f2f692e696d6775722e636f6d2f5234636a6a71502e6a7067)</b>
-
-## Computer vision
-### 
 
 Under construction ...
 

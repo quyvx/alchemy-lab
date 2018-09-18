@@ -16,7 +16,7 @@ Play Dota 2 and basketball in my free time. Worship dogs.
 
 ### Optical character recognition
 - Highlighted the main difference of CNN and MLP and compare their performances in OCR task.
-- Messed up traning data labels to see how can the network learn - THEY CAN !!! Turned out to be one of the active research area!
+- Messed up traning data labels to see how can the network learn - <b>THEY CAN!!!</b> Turned out to be one of the active research area!
 
 <b>[Report](https://github.com/quyvx/Alchemy/blob/master/City/Courseworks/Comparison%20of%20MLP%20and%20CNN%20in%20hand-written%20digit%20recognition.pdf)</b>
 

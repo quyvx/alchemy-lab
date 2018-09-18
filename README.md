@@ -12,13 +12,13 @@ Play Dota 2 and basketball in my free time. Worship dogs.
 - Wrote a program to detect and recognise faces in pictures and video. 
 - Also detect and recognise any number shown in the picture
 
-[Report](https://github.com/quyvx/Alchemy/blob/master/City/Courseworks/Face%20and%20digit%20recognition.pdf)
+<b>[Report](https://github.com/quyvx/Alchemy/blob/master/City/Courseworks/Face%20and%20digit%20recognition.pdf)</b>
 
 ### Optical character recognition
 - Highlighted the main difference of CNN and MLP and compare their performances in OCR task.
 - Messed up traning data labels to see how can the network learn - THEY CAN !!! Turned out to be one of the active research area!
 
-[Report](https://github.com/quyvx/Alchemy/blob/master/City/Courseworks/Comparison%20of%20MLP%20and%20CNN%20in%20hand-written%20digit%20recognition.pdf)
+<b>[Report](https://github.com/quyvx/Alchemy/blob/master/City/Courseworks/Comparison%20of%20MLP%20and%20CNN%20in%20hand-written%20digit%20recognition.pdf)</b>
 
 ## Imbalance learning
 ### Credit card fraud detection

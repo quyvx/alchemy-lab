@@ -20,6 +20,12 @@ Play Dota 2 and basketball in my free time. Worship dogs.
 
 <b>[Report](https://github.com/quyvx/Alchemy/blob/master/City/Courseworks/Comparison%20of%20MLP%20and%20CNN%20in%20hand-written%20digit%20recognition.pdf)</b>
 
+## Reinforcement learning
+- Trained an agent to solve the Cliff Walking problem using Q-learning and SARSA
+- Experimented different learning parameters such as exploration factor (epsilon), decay factor (lambda), learning policy, learning rate, discount factor.
+- Concluded that the agent trained with only Q-learning is quite dumb ...
+<b>[Report](https://github.com/quyvx/Alchemy/blob/master/City/Courseworks/Reinforcement%20learning/Implementation%20of%20Q%20learning%20and%20SARSA%20in%20Cliff%20Walking%20Problem.pdf) | [Repo](https://github.com/quyvx/Alchemy/tree/master/City/Courseworks/Reinforcement%20learning)</b>
+
 ## Imbalance learning
 ### Credit card fraud detection
 - Used PCA to identify important predictors. 

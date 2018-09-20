@@ -1,12 +1,20 @@
 # Alchemy lab by Quy Vu
 This is where crazy ideas are experimented. Lots of them didn't work, but some turned out to be interesting!
 
-<b> About me</b>: Currently part of the Data and Analytics team at Mott MacDonald in London. Previously worked at PwC and KPMG in Vietnam as consultant. MSc in data science at City, University of London.  
+<b> About me</b>: 
+
+- Machine learning, deep learning with Python, Matlab
+- Extract data with SQL
+- Cloud computing in the Azure ecosystem
+- Present result with PowerBI, Data engineering with PySpark. 
+- Version control with Git
+
+Currently part of the Data and Analytics team at Mott MacDonald in London. Previously worked at PwC and KPMG in Vietnam as consultant. MSc in data science at City, University of London. 
 
 Play Dota 2 and basketball in my free time. Worship dogs.
 
 ## Computer vision
-### Face detection and recognition
+### Face and character detection and recognition
 - Processed group and individual photos, then extracted features for 3 ML algorithms and 
 - Performed transfer learning (VGG-Net) to achive 99.25% accuracy.
 - Wrote a program to detect and recognise faces in pictures and video. 

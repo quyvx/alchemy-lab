@@ -16,7 +16,7 @@ Play Dota 2 and basketball in my free time. Worship dogs.
 ## Computer vision
 ### Face and character detection and recognition
 - Processed group and individual photos, then extracted features for 3 ML algorithms and 
-- Performed transfer learning (VGG-Net) to achive 99.25% accuracy.
+- Performed transfer learning (VGG-Net) to achieve 99.25% accuracy.
 - Wrote a program to detect and recognise faces in pictures and video. 
 - Also detect and recognise any number shown in the picture
 

@@ -67,4 +67,4 @@ Under construction ...
 # Contact
  [LinkedIn](https://www.linkedin.com/in/quyvx/) 
  
- Email: quy.vu@city.ac.uk!
+ Email: quy.vu@city.ac.uk

@@ -13,6 +13,26 @@ Currently part of the Data and Analytics team at Mott MacDonald in London. Previ
 
 Play Dota 2 and basketball in my free time. Worship dogs.
 
+## GIS
+### Predict breaks in water distribution network
+- Aggregated data from multiple sources, different format (ArcGIS, Azure DataBricks)
+- Performed geo-spatial mapping of breaks and water mains
+- Extracted features from pressure logs picked up by sensors placed across the network
+- Geographical-based feature engineering
+- Predict, evaluate, get feature importance with Random Forest, XGBoost, MLP
+- Write up report and present
+
+<b>[Repo](https://github.com/quyvx/pipe-break)</b>
+
+## Time series
+### Hourly electricity demand forecasting
+- Cleaned, aggregated data on hourly electricity consumption of ~2,000 households. 
+- Performed customer segmentation with Fast Dynamic Time Warping and K-Medoids. Visualise result with Multi Dimensional Scaling
+- Feature engineering (lagged features, exponentially weighted moving average, date time, decision tree)
+- Forecast with LSTM, MLP, CatBoost, and Light GBM
+
+<b>[Repo](https://github.com/quyvx/electricity-forecast)</b>
+
 ## Computer vision
 ### Face and character detection and recognition
 - Processed group and individual photos, then extracted features for 3 ML algorithms and 
@@ -39,7 +59,7 @@ Play Dota 2 and basketball in my free time. Worship dogs.
 ### Credit card fraud detection
 - Used PCA to identify important predictors. 
 - My first machine learning project at City University. 
-- As the main goal was to to understand more about the data, I selected logistic regression and decision tree. Obiviously could get better performance with more sophisticated models.
+- As the main goal was to to understand more about the data, I selected logistic regression and decision tree. Obviously could get better performance with more sophisticated models.
 - Earned me a final interview at GoldmanSachs
 
 <b>[Notebook](https://github.com/quyvx/Alchemy/blob/master/City/Courseworks/Credit%20card%20fraud%20detection%20with%20Logistic%20Regression%20and%20Decision%20Tree/Submission.ipynb) | [Repo](https://github.com/quyvx/Alchemy/tree/master/City/Courseworks/Credit%20card%20fraud%20detection%20with%20Logistic%20Regression%20and%20Decision%20Tree)</b>

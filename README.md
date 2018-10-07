@@ -15,6 +15,7 @@ Play Dota 2 and basketball in my free time. Worship dogs.
 
 ## GIS
 ### Predict breaks in water distribution network
+- Project for my master thesis
 - Aggregated data from multiple sources, different format (ArcGIS, Azure DataBricks)
 - Performed geo-spatial mapping of breaks and water mains
 - Extracted features from pressure logs picked up by sensors placed across the network
